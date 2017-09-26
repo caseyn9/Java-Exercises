@@ -1,0 +1,3 @@
+Create a simple Smime compatable email client to interface with gmail.
+Encrypt and decrypt emails using RSA encryption.
+Simulate private and public keys for users of this email client (done through the local file system for demonstration purposes).

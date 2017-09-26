@@ -1,0 +1,1 @@
+Create a proxy server compatable with firefox to cache webpages and block webpages.
